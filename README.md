@@ -16,10 +16,12 @@ Make sure you have the following libraries installed:
 - Python 3.x
 - PyTorch
 - Hugging Face Datasets
+- tqdm
+- tokenizers
 
 ## Dataset
 
-We will use the OPUS dataset from Hugging Face, which provides multilingual parallel corpora for various language pairs, including English and German.
+I used the OPUS dataset from Hugging Face, which provides multilingual parallel corpora for various language pairs, including English and German.
 
 
 ## Conclusion
